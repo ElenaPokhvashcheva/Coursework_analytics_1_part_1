@@ -1,4 +1,4 @@
-# Coursework_analytics_1_part_1_Pandas_Matplotlib
+# Skillbox_Coursework_analytics_1_part_1_Pandas_Matplotlib
 
 <br><br>
 **Описание работы:**
